@@ -1,7 +1,7 @@
 import { useGetCommentsQuery } from '../../services/comments/api';
 
 const Comments = () => {
-  const { data } = useGetCommentsQuery();
+  const { data } = useGetCommentsQuery({});
   console.log('data : ', data);
   return (
     <>
