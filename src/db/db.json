@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "1720994002971",
+      "title": "new post at 1720994002971",
+      "views": 12312
+    },
+    {
+      "id": "1720994013634",
+      "title": "new post at 1720994013634",
+      "views": 12312
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ]
+}
